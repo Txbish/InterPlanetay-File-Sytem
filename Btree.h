@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <vector>
-#include "DataProject.cpp"
+#include "IPFS.cpp"
 #include <algorithm>
 #include "BigInt.h"
 #include <fstream>
